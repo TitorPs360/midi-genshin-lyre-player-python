@@ -72,7 +72,6 @@ def find_best_shift(midi_data):
     max_note = max(range(len(note_counter)), key=note_counter.__getitem__)
     shifting = 0
     counter = 0
-    # index = 0
 
     # calculate shifting by find max note cluster
     for i in range(len(octave_list) - 3):
