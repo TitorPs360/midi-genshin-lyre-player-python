@@ -2,6 +2,12 @@
 
 _Genshin Lyre Player_ - a project for auto playing MIDI song with Windsong Lyre in Genshin Impact.
 
+## Youtube
+
+For more information can be seen in my [video](https://youtu.be/f0EuECyRqF0) on YouTube.
+
+[![new_thumb](https://github.com/TitorPs360/midi-genshin-lyre-player-python/blob/main/fig/cover.png?raw=true)](https://youtu.be/f0EuECyRqF0)
+
 ## Requirements
 
 - Genshin Impact on Windows
@@ -19,8 +25,17 @@ conda create --name <env> --file requirements.txt
 ## Usage
 
 1. Open Genshin Impact
+
+   ![alt text](https://github.com/TitorPs360/midi-genshin-lyre-player-python/blob/main/fig/step1.png?raw=true)
+
 2. Equipt and use Windsong Lyre
+
+   ![alt text](https://github.com/TitorPs360/midi-genshin-lyre-player-python/blob/main/fig/step2.png?raw=true)
+
 3. Open CMD as administrator
+
+   ![alt text](https://github.com/TitorPs360/midi-genshin-lyre-player-python/blob/main/fig/step3.png?raw=true)
+
 4. Activate anaconda environment
    ```
    conda activate <env>
